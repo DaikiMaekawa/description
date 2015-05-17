@@ -1,3 +1,3 @@
-# description
+# About
 
 主にプログラムの解説
